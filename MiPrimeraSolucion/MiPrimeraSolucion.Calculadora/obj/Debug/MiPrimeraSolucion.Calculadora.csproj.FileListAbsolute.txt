@@ -1,0 +1,10 @@
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Debug\MiPrimeraSolucion.Calculadora.exe.config
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Debug\MiPrimeraSolucion.Calculadora.exe
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Debug\MiPrimeraSolucion.Calculadora.pdb
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.csproj.AssemblyReference.cache
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.Form1.resources
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.Properties.Resources.resources
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.csproj.GenerateResource.cache
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.csproj.CoreCompileInputs.cache
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.exe
+C:\Proyectos\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.pdb
