@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9148DC33-596A-436D-B29A-05C4E47501EB}|MiPrimeraSolucion.Calculadora\\MiPrimeraSolucion.Calculadora.csproj|c:\\users\\isra arguedas\\source\\repos\\sc-601-programacion-avanzada\\miprimerasolucion\\miprimerasolucion.calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9148DC33-596A-436D-B29A-05C4E47501EB}|MiPrimeraSolucion.Calculadora\\MiPrimeraSolucion.Calculadora.csproj|solutionrelative:miprimerasolucion.calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9148DC33-596A-436D-B29A-05C4E47501EB}|MiPrimeraSolucion.Calculadora\\MiPrimeraSolucion.Calculadora.csproj|C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\miprimerasolucion.calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9148DC33-596A-436D-B29A-05C4E47501EB}|MiPrimeraSolucion.Calculadora\\MiPrimeraSolucion.Calculadora.csproj|solutionrelative:miprimerasolucion.calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9148DC33-596A-436D-B29A-05C4E47501EB}|MiPrimeraSolucion.Calculadora\\MiPrimeraSolucion.Calculadora.csproj|C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\miprimerasolucion.calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9148DC33-596A-436D-B29A-05C4E47501EB}|MiPrimeraSolucion.Calculadora\\MiPrimeraSolucion.Calculadora.csproj|solutionrelative:miprimerasolucion.calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9148DC33-596A-436D-B29A-05C4E47501EB}|MiPrimeraSolucion.Calculadora\\MiPrimeraSolucion.Calculadora.csproj|C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\miprimerasolucion.calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9148DC33-596A-436D-B29A-05C4E47501EB}|MiPrimeraSolucion.Calculadora\\MiPrimeraSolucion.Calculadora.csproj|solutionrelative:miprimerasolucion.calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\MiPrimeraSolucion.Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "MiPrimeraSolucion.Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\MiPrimeraSolucion.Calculadora\\Form1.cs",
+              "RelativeToolTip": "MiPrimeraSolucion.Calculadora\\Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwNkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:58:51.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\MiPrimeraSolucion.Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "MiPrimeraSolucion.Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\MiPrimeraSolucion.Calculadora\\Form1.cs [Design]",
+              "RelativeToolTip": "MiPrimeraSolucion.Calculadora\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:58:47.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\MiPrimeraSolucion.Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "MiPrimeraSolucion.Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\MiPrimeraSolucion.Calculadora\\Program.cs",
+              "RelativeToolTip": "MiPrimeraSolucion.Calculadora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:57:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\MiPrimeraSolucion.Calculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MiPrimeraSolucion.Calculadora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Isra Arguedas\\source\\repos\\SC-601-Programacion-Avanzada\\MiPrimeraSolucion\\MiPrimeraSolucion.Calculadora\\Form1.Designer.cs",
+              "RelativeToolTip": "MiPrimeraSolucion.Calculadora\\Form1.Designer.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAwMQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:57:34.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.exe.config
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.exe
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.pdb
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.AssemblyReference.cache
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.Form1.resources
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.Properties.Resources.resources
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.GenerateResource.cache
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.exe
+C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.pdb
