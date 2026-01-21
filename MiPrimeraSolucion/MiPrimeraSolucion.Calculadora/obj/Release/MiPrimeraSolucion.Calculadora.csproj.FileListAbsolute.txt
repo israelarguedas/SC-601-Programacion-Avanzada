@@ -8,3 +8,13 @@ C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSoluci
 C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.exe
 C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.pdb
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.exe.config
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.exe
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.pdb
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.AssemblyReference.cache
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.Form1.resources
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.Properties.Resources.resources
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.GenerateResource.cache
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.exe
+C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.pdb

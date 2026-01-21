@@ -12,9 +12,9 @@ namespace MiPrimeraSolucion.Calculadora
 {
     public partial class Form1 : Form
     {
-        private int numeroUno = 0;
-        private int numeroDos = 0;
-        private int resultado = 0;
+        private float numeroUno = 0;
+        private float numeroDos = 0;
+        private float resultado = 0;
 
         private string operacion = string.Empty;
         public Form1()
@@ -135,44 +135,44 @@ namespace MiPrimeraSolucion.Calculadora
 
         private void Suma()
         {
-            numeroDos = int.Parse(textBox1.Text);
+            numeroDos = float.Parse(textBox1.Text);
             resultado = numeroUno + numeroDos;
             textBox1.Text = resultado.ToString();
         }
 
         private void Resta()
         {
-            numeroDos = int.Parse(textBox1.Text);
+            numeroDos = float.Parse(textBox1.Text);
             resultado = numeroUno - numeroDos;
             textBox1.Text = resultado.ToString();
         }
 
         private void Mult()
         {
-            numeroDos = int.Parse(textBox1.Text);
+            numeroDos = float.Parse(textBox1.Text);
             resultado = numeroUno * numeroDos;
             textBox1.Text = resultado.ToString();
         }
 
         private void Divis()
         {
-            numeroDos = int.Parse(textBox1.Text);
+            numeroDos = float.Parse(textBox1.Text);
             resultado = numeroUno / numeroDos;
             textBox1.Text = resultado.ToString();
         }
 
         private void buttonSuma_Click(object sender, EventArgs e)
         {
-            numeroUno = int.Parse(textBox1.Text);
-            numeroDos = int.Parse(textBox1.Text);
+            numeroUno = float.Parse(textBox1.Text);
+            numeroDos = float.Parse(textBox1.Text);
             operacion = "+";
 
             textBox1.Text = "0";
         }
         private void buttonResta_Click(object sender, EventArgs e)
         {
-            numeroUno = int.Parse(textBox1.Text);
-            numeroDos = int.Parse(textBox1.Text);
+            numeroUno = float.Parse(textBox1.Text);
+            numeroDos = float.Parse(textBox1.Text);
             operacion = "-";
 
             textBox1.Text = "0";
@@ -180,8 +180,8 @@ namespace MiPrimeraSolucion.Calculadora
 
         private void buttonMult_Click(object sender, EventArgs e)
         {
-            numeroUno = int.Parse(textBox1.Text);
-            numeroDos = int.Parse(textBox1.Text);
+            numeroUno = float.Parse(textBox1.Text);
+            numeroDos = float.Parse(textBox1.Text);
             operacion = "*";
 
             textBox1.Text = "0";
@@ -189,8 +189,8 @@ namespace MiPrimeraSolucion.Calculadora
 
         private void buttonDivis_Click(object sender, EventArgs e)
         {
-            numeroUno = int.Parse(textBox1.Text);
-            numeroDos = int.Parse(textBox1.Text);
+            numeroUno = float.Parse(textBox1.Text);
+            numeroDos = float.Parse(textBox1.Text);
             operacion = "/";
 
             textBox1.Text = "0";
