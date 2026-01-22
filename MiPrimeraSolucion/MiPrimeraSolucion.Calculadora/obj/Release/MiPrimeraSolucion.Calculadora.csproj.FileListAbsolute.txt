@@ -18,3 +18,14 @@ C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion
 C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.exe
 C:\xampp\htdocs\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.pdb
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.exe.config
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.exe
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Release\MiPrimeraSolucion.Calculadora.pdb
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.AssemblyReference.cache
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.exe.config
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.Form1.resources
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.Properties.Resources.resources
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.GenerateResource.cache
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.exe
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Release\MiPrimeraSolucion.Calculadora.pdb

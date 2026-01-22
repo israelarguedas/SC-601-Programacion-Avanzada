@@ -18,3 +18,14 @@ C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSoluci
 C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.exe
 C:\Users\Isra Arguedas\source\repos\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.pdb
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Debug\MiPrimeraSolucion.Calculadora.exe.config
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Debug\MiPrimeraSolucion.Calculadora.exe
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\bin\Debug\MiPrimeraSolucion.Calculadora.pdb
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.csproj.AssemblyReference.cache
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.exe.config
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.Form1.resources
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.Properties.Resources.resources
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.csproj.GenerateResource.cache
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.exe
+C:\Users\Laboratorios\Desktop\SC-601-Programacion-Avanzada\MiPrimeraSolucion\MiPrimeraSolucion.Calculadora\obj\Debug\MiPrimeraSolucion.Calculadora.pdb
